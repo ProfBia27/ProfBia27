@@ -3,7 +3,7 @@
 Meu nome é Ana Beatriz
 
 - Estudo na Alura
-- Utilizo esse espanço para compartilhar meus projetos desenvolvidos.
+- Utilizo esse espaço para compartilhar meus projetos desenvolvidos.
 
 ## Para contato🤙
 
